@@ -1,25 +1,11 @@
-%META:TOPICINFO{author="AcMe" date="1240280154" format="1.1" version="1.2"}%
-%META:TOPICPARENT{name="Recetas"}%
+---+ Masa para Pizza
 
----+!! Pizza
-
----++ Presentación
-
-   * Ingredientes destacados: 
-
----++ Créditos
+Créditos: Rosa María Su de Su
+Fuente: Héctor Iván Su Su
+Porciones:
 
 
----++ Planeación
-
-   * Tiempo total de elaboración:  min
-   * Tiempo de preparación:  min
-   * Tiempo de reposo:  min
-   * Dificultad: 
-   * Utensilios: 
-   * Número de raciones:
-
----++ Ingredientes
+Ingredientes:
 
    * 1 kg. Harina
    * 4 Cdas. Aceite o manteca
@@ -29,7 +15,15 @@
    * 2 Cdas. Levadura en polvo
 
 
----++ Modo de preparación
+Utensilios:
+
+   * Rodillo
+   * Charola para hornear
+   * 
+   * 
+
+
+Preparación:
 
    1. Mezclar la harina y la sal
    2. Mezclar los polvos con la materia grasa y homogeneizar la textura. Agregar más grasa si la mezcla no tiene pequeños grumitos.
@@ -38,7 +32,12 @@
    5. Amasar sobre un poco de harina hasta que se le quite lo pegajoso, cortar y hacer bolitas.  
    6. Extender la masa con un rodillo. Para masa delgada dejar de unos 5 o 6 mm.
    7. Para precocer hornear la base sola hasta que infle, enfriar y guardar.
-   8. 
-   9. 
 
--- %USERNAME% - %DATE%
+
+Información nutrimental:
+
+   * Tamaño de la porción
+   * Calorías por porción
+   * Carbohidratos totales
+   * Grasas totales
+      * Colesterol
