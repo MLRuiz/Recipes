@@ -1,7 +1,7 @@
 ---+ Caldo Doble para Ramen
 
-Créditos:
-Fuente: Adam Liaw
+Créditos: Adam Liaw
+Fuente: https://www.youtube.com/watch?v=F-TQjevcOf4
 Porciones:
 
 
@@ -48,9 +48,9 @@ Preparación:
    2. Sacar la carne, lavar la olla y regresar la carne. Agregar dos tantos en peso de agua y poner a hervir por 7 horas, removiendo el fondo para que no se peguen los huesos, espumando y reponiendo el agua evaporada.
 
 
-   2. Poner el combu en la olla de 5 litros y, de preferencia, refrigerar toda la noche. La otra opción es ponerla a fuego súper lento por 60 minutos (a 65 grados o menos) hasta que el alga se hidrate y se queden marcas en la superficie al presionar. [[Video][https://youtu.be/nscTA7QxryM?t=824]]
-   3. Sacar el alga y llevar el caldo a ebullición. Agregar los mariscos secos y apagar inmediatamente. Dejar reposar por media hora y colar.
-   4. Agregar los aromáticos y vegetales al caldo y seguir a fuego lento por otra hora y media.
+   3. Poner el kombu en la olla de 5 litros y, de preferencia, refrigerar toda la noche. La otra opción es ponerla a fuego súper lento por 60 minutos (a 65 grados o menos) hasta que el alga se hidrate y se queden marcas en la superficie al presionar. [[Video][https://youtu.be/nscTA7QxryM?t=824]]
+   4. Sacar el alga y llevar el caldo a ebullición. Agregar los mariscos secos y apagar inmediatamente. Dejar reposar por media hora y colar.
+   5. Agregar los aromáticos y vegetales al caldo y seguir a fuego lento por otra hora y media.
 
 
 Información nutrimental:
