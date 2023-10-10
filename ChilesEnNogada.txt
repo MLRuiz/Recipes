@@ -3,14 +3,17 @@
 ---++ Versión tradicional
 
 Fuente: http://www.mexicodesconocido.com.mx/receta-para-preparar-chiles-en-nogada.html
-Técnica: https://youtu.be/CD9zVTXmr7g
+Técnica:
+   * https://youtu.be/Lyiav3YL2Ug Pelado de nuez de Castilla
+   * https://youtu.be/vFw00Py1enE Capeado
+   * https://youtu.be/ma77qhzNnOI https://youtu.be/CD9zVTXmr7g https://www.youtube.com/live/JCYOQkSuxqU https://youtu.be/nH2i9xtm-Wk
 Adaptada a 6 porciones
 
    * 6 Chiles poblanos
    * 1 Granada roja
 
 Picadillo
-   * 1/4 de taza de aceite de maíz
+   * 1/4 de taza de manteca o aceite de maíz
    * 3 dientes de ajo cortados por la mitad
    * 1/4 taza de cebolla finamente picada
    * 1/4 kg de carne de cerdo molida (pasada por el molino una sola vez)
@@ -37,9 +40,11 @@ Picadillo
    * 1/2 cucharada de vinagre blanco
 
 Capeado 
-   * 3 huevos, separados claras de las yemas
-   * 1/4 de taza de harina
+   * 4 claras de huevo
    * 1/2 cucharaditas de sal
+   * 1/8 cdta. cremor tártaro
+   * 3 yemas de huevo
+   * 1 Cda. de harina
    * 1/4 taza de harina para revolcar los chiles
    * 1/2 tazas de aceite de maíz (más el que reservaste para freír los plátanos)
 
@@ -85,7 +90,7 @@ Picadillo
      piñones y el vinagre. El picado no debe quedar deshecho.
 
 Capeado
-   * Bate las claras hasta que hagan picos suaves, añade las yemas, la sal y el 1/4 de taza de harina. Bate hasta que todos los ingredientes estén incorporados.
+   * En un bowl, poner las claras, sal y cremor tártaro. Batir hasta que hagan picos suaves, agregar las yemas, dar una última batida y luego incorporar la harina con una espátula en movimientos envolventes.
    * Revuelca los chiles en la harina y quítales el exceso golpeándolos con la mano suavemente, pues sólo sirve para que se adhiera bien el huevo.
    * Calienta el aceite con el que freíste el plátano en un sartén amplio (conforme vayas necesitando más aceite, añádelo). Deja que humee ligeramente, sumerge los chiles en el huevo y fríelos uno por uno. Mientras se dora ligeramente la parte de abajo del chile, con la ayuda de una pala o espátula baña la parte de arriba para que éste se dore y no sea necesario voltearlo. Si no tienes experiencia, voltéelo.
    * Escúrrelos sobre servilletas de papel para quitarles el exceso de grasa del capeado. Mantenlos tibios o a temperatura ambiente y reserva.
