@@ -6,7 +6,7 @@
 
 Una taza de 240 ml de ... equivale a ... gramos
 
-Aceite de canola 220 gr. [[Norma Mexicana NMX-F-475-SCFI-2017 ALIMENTOS – ACEITE COMESTIBLE PURO DE CANOLA – ESPECIFICACIONES][http://sitios1.dif.gob.mx/alimentacion/docs/NMX-F-475-SCFI-2017_canola.pdf]]
+Aceite de canola, 220 gr. [[Norma Mexicana NMX-F-475-SCFI-2017 ALIMENTOS – ACEITE COMESTIBLE PURO DE CANOLA – ESPECIFICACIONES][http://sitios1.dif.gob.mx/alimentacion/docs/NMX-F-475-SCFI-2017_canola.pdf]]
 Azúcar, 145 gr [[Fat Secret][https://www.fatsecret.com.mx/calor%C3%ADas-nutrici%C3%B3n/gen%C3%A9rico/az%C3%BAcar-morena]]
 Harina de arroz, 157 gr [[Fat Secreet][https://www.fatsecret.com.mx/calor%C3%ADas-nutrici%C3%B3n/gen%C3%A9rico/harina-de-arroz]]
 Harina de trigo, 125 gr [[Fat Secret][https://www.fatsecret.com.mx/calor%C3%ADas-nutrici%C3%B3n/gen%C3%A9rico/harina-blanca]]
@@ -16,6 +16,10 @@ Yoghurt, 227 gr [[Fat Secret][https://www.fatsecret.com.mx/calor%C3%ADas-nutrici
 
 Referencias adicionales:
 NMX-F-084-SCFI-2004 INDUSTRIA AZUCARERA - AZÚCAR ESTÁNDAR - ESPECIFICACIONES (2017) Secretaría de Economía
+
+---+++ 100 ml. a gramos
+
+* Jugo de limón, .050 de ácido cítrico (como conservador)
 
 ---++ De piezas a gramos
 

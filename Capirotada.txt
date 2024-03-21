@@ -1,7 +1,49 @@
 ---+ Capirotada
 
-CrÈditos:
-Fuente:
+Ingredientes:
+
+   * 700 gr. de Pan bolillo, fr√≠o, rebanado y horneado u oreado por uno o dos d√≠as
+   * 250 gr. de manteca de cerdo
+   * 700 gr. de toppings, al gusto
+   * 1.5 litros de miel
+   * 4 tortillas
+
+Toppings
+
+   * 100 gr. de Queso cotija
+   * 400 gr. de semillas: Nuez pecana, cacahuate frito, almendras peladas o fileteadas
+   * 400 gr. de frutos secos, picados: Acitr√≥n (biznaga); pasas de uva, ar√°ndano o ciruela
+   * 400 gr. de pl√°tano macho, rebanao y frito
+   * 300 gr. de manzana fresca, picada
+   * 50 gr. de coco seco rayado
+
+Para la miel
+
+   * 1 kg. de Piloncillo
+   * 1 trozo de c√°scara de naranja
+   * 2 Pimientas gordas entera
+   * 2 Clavos de olor
+   * 1 trozo (5 gr.) de Canela en rama
+   * 1 Guayaba chica
+   * 1.5 litros de Agua
+
+Utensilios:
+
+   * Cazo de cobre, para hacer la miel
+   * Olla o refractario para armar
+
+Preparaci√≥n:
+
+   1. Preparar la miel poniendo a hervir todos los ingredientes.
+   2. Freir las tortillas y colocar en el fondo de la olla, el objetivo es cubrir el fondo para que no se pegue. Freir el pan rebanado en manteca. Si ya viene horneado, se puede derretir la manteca y aplicar con una brocha para luego poner un momento al comal.
+   3. Armar: Una capa de pan, ponerle miel a cada pan, agregar toppings al gusto. Repetir hasta terminar.
+   4. Calentar a flama baja por 45 minutos con la olla tapada.
+
+
+---++ Versi√≥n de Rosa Mar√≠a Alc√°ntara Garc√≠a.
+
+Cr√©ditos: Rosa Mar√≠a Alc√°ntara Garc√≠a.
+Fuente: De primera mano.
 Porciones:
 
 
@@ -18,43 +60,113 @@ Ingredientes:
 
 Utensilios:
 
-   * Freidora o sartÈn para freÌdo profundo.
+   * Freidora o sart√©n para fre√≠do profundo.
    * Olla con tapa (la express funciona bien)
    * Horno (opcional)
    * Charola p/ hornear
    * Colador grande
 
-PreparaciÛn:
+Preparaci√≥n:
 
    1. Se rebana el pan en rebanadas como de 1 cm y se seca al sol (o en horno a menos de 100 C). Mientras, se lava el piloncillo y luego se hace una miel poniendo a hervir agua, la canela, el piloncillo y los clavos.
-   2. Se frÌen las rebanadas de pan y, ya fritas, se acomodan en una olla junto con las pasas. Se pone la olla al fuego y se le cuela encima suficiente miel tibia para que en el hervor Èsta cubra los panes. Se apaga cuando el pan ya est· enmielado. Se agrega el queso en moronas grandes y se tapa.
+   2. Se fr√≠en las rebanadas de pan y, ya fritas, se acomodan en una olla junto con las pasas. Se pone la olla al fuego y se le cuela encima suficiente miel tibia para que en el hervor √©sta cubra los panes. Se apaga cuando el pan ya est√° enmielado. Se agrega el queso en moronas grandes y se tapa.
    3. 
    4. 
    5. 
 
 
-InformaciÛn nutrimental:
+Informaci√≥n nutrimental:
 
-   * TamaÒo de la porciÛn
-   * CalorÌas por porciÛn
+   * Tama√±o de la porci√≥n
+   * Calor√≠as por porci√≥n
    * Carbohidratos totales
    * Grasas totales
       * Colesterol
 
 
----++ VersiÛn de Ricardo MuÒoz Zurita
+---+ Versi√≥n de Zelecisne
 
-CrÈditos: Ricardo MuÒoz Zurita
+Cr√©ditos:
+Fuente: https://youtu.be/YahurFHJ6q4
+Porciones:
+
+
+Ingredientes:
+
+   * 
+   * 
+   * 
+   * 
+   * 
+   * 
+
+
+Utensilios:
+
+   * 
+   * 
+   * 
+   * 
+
+
+Preparaci√≥n:
+
+   1. 
+   2. 
+   3. 
+   4. 
+   5. 
+   6. Hornear en horno precalentado a 375‚Ñâ o 180‚ÑÉ
+
+
+Informaci√≥n nutrimental:
+
+   * Tama√±o de la porci√≥n
+   * Calor√≠as por porci√≥n
+   * Carbohidratos totales
+   * Grasas totales
+      * Colesterol
+
+
+---++ Versi√≥n de Yuri de Gortari
+
+Cr√©ditos: Yuri de Gortari
+Fuente: https://youtu.be/xBuZmTO5O4A
+Porciones:
+
+
+Ingredientes:
+
+   * 3 Bolillos rebanados
+   * 100 gr. de Cacahuate natural
+   * 1/2 taza de Acitr√≥n, picado en cubitos
+   * 1 taza de Pasitas
+   * 150 gr de Queso Cotija
+   * Manteca de cerdo	 
+
+Para la miel
+   * 1 kg. de Piloncillo
+   * C√°scara de naranja
+   * Pimienta gorda entera
+   * 6 Clavos de olor
+   * 1 trozo de Canela en rama
+   * 1 Guayaba chica
+   * 1.5 litros de Agua
+
+
+---++ Versi√≥n de Ricardo Mu√±oz Zurita
+
+Cr√©ditos: Ricardo Mu√±oz Zurita
 Fuente: Larouse Cocina https://laroussecocina.mx/receta/capirotada/
 Porciones: 8
 
 La capirotada es un postre muy popular hecho con miel de piloncillo con agua o leche, almendras, cacahuates o pasas, y a veces queso.
 
-Este postre, que principalmente se hace en la cuaresma, es muy antiguo; se sabe que ya se acostumbraba en el siglo XVII. En mi Diccionario enciclopÈdico de gastronomÌa mexicana hago un recuento de por lo menos tres estados que registran la capirotada como un postre tradicional, y todos presentan ligeras variantes. En Colima se hacen la capirotada de agua y la de leche; en San Luis PotosÌ, la capirotada blanca. En algunos lugares, el fondo del molde o la cazuela se cubre con una capa de tortillas de maÌz para que las rebanadas no se peguen durante el horneado. Es importante utilizar un pan cuya masa interior sea densa, que estÈ bien oreado por lo menos 1 dÌa e incluso se puede tostar ligeramente. En unas regiones del paÌs, como Michoac·n, se venden bolsas de pan rebanado y seco para capirotada.
+Este postre, que principalmente se hace en la cuaresma, es muy antiguo; se sabe que ya se acostumbraba en el siglo XVII. En mi Diccionario enciclop√©dico de gastronom√≠a mexicana hago un recuento de por lo menos tres estados que registran la capirotada como un postre tradicional, y todos presentan ligeras variantes. En Colima se hacen la capirotada de agua y la de leche; en San Luis Potos√≠, la capirotada blanca. En algunos lugares, el fondo del molde o la cazuela se cubre con una capa de tortillas de ma√≠z para que las rebanadas no se peguen durante el horneado. Es importante utilizar un pan cuya masa interior sea densa, que est√© bien oreado por lo menos 1 d√≠a e incluso se puede tostar ligeramente. En unas regiones del pa√≠s, como Michoac√°n, se venden bolsas de pan rebanado y seco para capirotada.
 
-Tradicionalmente, se presenta como un postre que se sirve en pequeÒas cantidades a temperatura ambiente o frÌa; a mÌ me gusta incluso caliente o tibia y, aunque no es muy tradicional, puede acompaÒarse con helado de vainilla.
+Tradicionalmente, se presenta como un postre que se sirve en peque√±as cantidades a temperatura ambiente o fr√≠a; a m√≠ me gusta incluso caliente o tibia y, aunque no es muy tradicional, puede acompa√±arse con helado de vainilla.
 
-En otras regiones del paÌs se sirve acompaÒada con un vaso de leche.
+En otras regiones del pa√≠s se sirve acompa√±ada con un vaso de leche.
 
 Ingredientes:
 
@@ -65,7 +177,7 @@ Jarabe de Piloncillo
    * 200 gr (aprox. 1 taza) de uva pasa
 
    * 16 rebanadas de pan bolillo de 1 cm de grosor
-   * 2 tazas de aceite de maÌz
+   * 2 tazas de aceite de ma√≠z
    * 30 gr (1/3 de taza) de cacahuates pelados y tostados 
    * 50 gr de queso cotija desmoronado
 
@@ -77,19 +189,20 @@ Utensilios:
    * 
 
 
-PreparaciÛn:
+Preparaci√≥n:
 
    1. Caliente en una olla el agua con el piloncillo y la canela; hierva a fuego bajo por 25 minutos, moviendo de vez en cuando para asegurarse de que el piloncillo se deshaga. Incorpore las pasitas y retire del fuego. Mantenga caliente.
-   2. Caliente en un sartÈn un poco del aceite y frÌa las rebanadas de pan por ambos lados; aÒada poco a poco m·s aceite conforme vaya friendo las dem·s rebanadas. ColÛquelas sobre servilletas de papel para retirar el exceso de aceite; reserve.
-   3. Precaliente el horno a 180 ∞C. En un molde cuadrado de 20 centÌmetros por lado aproximadamente, haga una cama o capa de pan, baÒe con el jarabe toda la superficie y coloque encima los cacahuates y las pasitas. Repita este paso hasta lograr 2 o 3 capas m·s de pan (utilice todos los cacahuates y las pasitas).
-   4. Finalmente, espolvoree el queso en la superficie. Cubra con papel aluminio y hornee durante 1 hora. A mitad del horneado, revise y aÒada m·s jarabe, asegur·ndose de que todo el pan estÈ bien empapado (debe utilizar todo el jarabe). Sirva caliente, tibia o frÌa.
+   2. Caliente en un sart√©n un poco del aceite y fr√≠a las rebanadas de pan por ambos lados; a√±ada poco a poco m√°s aceite conforme vaya friendo las dem√°s rebanadas. Col√≥quelas sobre servilletas de papel para retirar el exceso de aceite; reserve.
+   3. Precaliente el horno a 180 ¬∞C. En un molde cuadrado de 20 cent√≠metros por lado aproximadamente, haga una cama o capa de pan, ba√±e con el jarabe toda la superficie y coloque encima los cacahuates y las pasitas. Repita este paso hasta lograr 2 o 3 capas m√°s de pan (utilice todos los cacahuates y las pasitas).
+   4. Finalmente, espolvoree el queso en la superficie. Cubra con papel aluminio y hornee durante 1 hora. A mitad del horneado, revise y a√±ada m√°s jarabe, asegur√°ndose de que todo el pan est√© bien empapado (debe utilizar todo el jarabe). Sirva caliente, tibia o fr√≠a.
 
 
-InformaciÛn nutrimental:
+Informaci√≥n nutrimental:
 
-   * TamaÒo de la porciÛn
-   * CalorÌas por porciÛn
+   * Tama√±o de la porci√≥n
+   * Calor√≠as por porci√≥n
    * Carbohidratos totales
    * Grasas totales
       * Colesterol
+
 
