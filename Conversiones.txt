@@ -20,6 +20,10 @@ NMX-F-084-SCFI-2004 INDUSTRIA AZUCARERA - AZÚCAR ESTÁNDAR - ESPECIFICACIONES
 ---+++ 100 ml. a gramos
 
 * Jugo de limón, .050 de ácido cítrico (como conservador)
+* Aceite de Oliva, 92.87 gr
+* Aceite vegetal, 91.65 gr.
+* Esencia de Vainilla, 88 gr. (https://miconvertidor.com/vm/esencia-de-vainilla/cucharada/gramo/1)
+* Huevo 110 gr. (https://www.geniolandia.com/13099348/cual-es-la-densidad-de-un-huevo)
 
 ---++ De piezas a gramos
 

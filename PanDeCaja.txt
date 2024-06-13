@@ -1,5 +1,18 @@
 ---+ Pan de Caja
 
+---++ Versión mía
+
+Para un molde de panqué de 25 x 10 x 7 cm.
+
+   * 300 gr. / 100% Harina panadera
+   * 190 ml. / 65% Leche entera 3%
+   * 15 gr. / 4% Mantequilla
+   * 7.5 gr. / 2.5% Azúcar
+   * 2 gr. / 0.67% Levadura seca instantánea
+   * 6 gr. / 2% Sal
+   * 10 mg ácido cítrico
+
+---++ Versión de Laszlo Gyomrey
 
 Créditos: Laszlo Gyomrey
 Fuente: https://youtu.be/gdF_Ksn3K84
@@ -13,7 +26,7 @@ Ingredientes:
    * 18 gr. / 2% Sal
    * 35 gr. / 4% Mantequilla, margarina o grasa vegetal
    * 25 gr. / 2.8% Azúcar
-   * 20 gr. / 2% de Jugo de limón, como conservador (10 mg. de ácido cítrico)
+   * 20 gr. / 2% de Jugo de limón, como conservador 
    * 40 gr. / 4.5% de Agua (corrección para Norte América y Europa)
 
    Masa total: 1550 gr.
@@ -32,19 +45,6 @@ Preparación:
    5. 
    6. Hornear en horno precalentado a 375℉ o 180℃
 
----++ Versión mía
-
-Para un molde de panqué de 25 x 10 x 7 cm.
-
-Nota: Quedó ligeramente grande, recalcular para 333 gr de harina.
-
-   * 375 gr. / 100% Harina panadera
-   * 240 ml. / 64.5% Leche entera 3%
-   * 15 gr. / 4% Mantequilla
-   * 10 gr. / 2.5% Azúcar
-   * 2.5 gr. / 0.67% Levadura seca instantánea
-   * 7.5 gr. / 2% Sal
-   * 10 mg ácido cítrico
 
 Preparación:
 
