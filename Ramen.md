@@ -1,18 +1,18 @@
 # 
 
-*Créditos:*
+*Créditos:* Adam Liaw
 *Fuente:*
+- [[Ramen School][https://www.youtube.com/playlist?list=PLm6gLR_sRM4xiAZXa3X71b4H4Dda1VMKg]]
 *Porciones:*
 
 
 ## Ingredientes
 
-- 
-- 
-- 
-- 
-- 
-- 
+- Caldo
+- Noodles
+- Tare (condimentos)
+- Aceite
+- Toppings
 
 
 ## Utensilios
@@ -30,7 +30,6 @@
 3. 
 4. 
 5. 
-6. Hornear en horno precalentado a 375℉ o 180℃
 
 
 Información nutrimental:

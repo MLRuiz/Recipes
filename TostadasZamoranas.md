@@ -1,4 +1,4 @@
-# 
+# Tostadas Zamoranas
 
 *Créditos:*
 *Fuente:*
@@ -7,13 +7,17 @@
 
 ## Ingredientes
 
-- 
-- 
-- 
-- 
-- 
-- 
-
+- Tostadas
+- Frijoles refritos molidos
+- Jamón, Queso de puerco, Pierna de puerco deshebrada
+- Lechuga
+- Jitomate
+- Cebolla
+- Zanahoria
+- Calabacita
+- Crema
+- Salsas
+- Queso Cotija
 
 ## Utensilios
 
@@ -30,7 +34,6 @@
 3. 
 4. 
 5. 
-6. Hornear en horno precalentado a 375℉ o 180℃
 
 
 Información nutrimental:

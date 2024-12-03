@@ -1,5 +1,3 @@
-# Sopa Tarasca
-
 Créditos: Vicky Receta Fácil
 Fuente: [Vicky Receta Fácil](https://youtu.be/MjqM0ETRSxQ)
 Porciones:
